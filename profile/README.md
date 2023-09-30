@@ -7,6 +7,7 @@ Our lab is headed by [prof. Angelo Spognardi](https://angelospognardi.site.uniro
 ## Publications
 
 - Di Paolo E., Bassetti E., Spognardi A. 2021. Security assessment of common open source MQTT brokers and clients. Proceedings of the Italian Conference on Cybersecurity (ITASEC 2021). 475-487. http://ceur-ws.org/Vol-2940/paper40.pdf
+- Di Paolo E., Bassetti E., Spognardi A. 2023. A New Model for Testing IPv6 Fragment Handling. ESORICS 2023 (accepted)
 
 ## Contributors
 - [@Enrico204](https://www.enricobassetti.it)
